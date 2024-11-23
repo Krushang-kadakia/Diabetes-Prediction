@@ -19,7 +19,7 @@ The project uses a dataset named **Diabetes.csv**, which contains:
   - Age
   - Number of pregnancies, etc.
 - **Target Variable**: 
-  - `Outcome`: Indicates whether the individual has diabetes (1) or not (0).
+  - Outcome: Indicates whether the individual has diabetes (1) or not (0).
 
 ---
 
